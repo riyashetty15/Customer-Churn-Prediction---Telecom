@@ -60,10 +60,10 @@ This project focuses on building a customer churn prediction pipeline, starting 
  
 **Python Libraries:**
 <br>
-<ul>**Data:** pandas, numpy</ul>
-<ul>**Visualization:** matplotlib, seaborn, plotly</ul>
-<ul>**ML:** scikit-learn, shap</ul>
-<ul>**Approach:** End-to-end ML pipeline with interpretable outputs.</ul>
+<ul><b>Data:</b>Data: pandas, numpy</ul>
+<ul><b>Visualization:</b> matplotlib, seaborn, plotly</ul>
+<ul><b>ML:</b> scikit-learn, shap</ul>
+<ul><b>Approcah:</b> End-to-end ML pipeline with interpretable outputs.</ul>
  
 <h3>Example Visuals</h3>
 <ul>- Customer churn distribution (churn vs no churn).</ul>
