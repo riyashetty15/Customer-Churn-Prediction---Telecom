@@ -68,5 +68,9 @@ This project focuses on building a customer churn prediction pipeline, starting 
 <h3>Example Visuals</h3>
 <ul>- Customer churn distribution (churn vs no churn).</ul>
 <ul>- Probability distribution of churned vs retained customers.</ul>
-<ul>- SHAP feature importance plot for interpretability.</ul>
+<ul>- SHAP feature importance plot for interpretability.</ul><br>
+<img width="1200" height="1000" alt="newplot (2)" src="https://github.com/user-attachments/assets/6d3c045e-8265-40b2-9906-ec5d5db04c82" />
 <ul>- Confusion matrix heatmaps for model comparison.</ul>
+<ul>- Existing Customer's Churn Probablity Distribution</ul><br>
+<img width="1457" height="525" alt="newplot (1)" src="https://github.com/user-attachments/assets/cc76f8a0-07c0-4bbd-99dd-74ae0079b478" />
+
