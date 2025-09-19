@@ -1,6 +1,6 @@
 # Customer-Churn-Prediction - Telecom
 This project focuses on building a customer churn prediction pipeline, starting from data exploration and preprocessing to model training, evaluation, and interpretability. The ultimate goal is to help businesses identify customers at risk of churn and design effective retention strategies.
-<br><br>
+<br>
 <h2>Project Workflow</h2>
  
 <h3>1. Data Exploration & Profiling</h3>
